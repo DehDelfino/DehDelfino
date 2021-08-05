@@ -27,6 +27,6 @@
   <a href="https://www.linkedin.com/in/andr%C3%A9-delfino-567a63211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="http://api.whatsapp.com/send?phone=5541997648569" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/DehDelfino)
+   ![Snake animation](https://github.com/DehDelfino/DehDelfino/blob/output/github-contribution-grid-snake.svg)
 </div>
 
