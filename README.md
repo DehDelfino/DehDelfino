@@ -3,7 +3,7 @@
 ### Olá! Eu sou o André Delfino
 
 
-- 🔭 Atualemte buscando oportunidades na area de Fullstack
+- 👨🏻‍💻 Atualemte buscando oportunidades na area de Fullstack
 - 👨🏻‍🎓 Acadêmico de Engenharia de Software pela PUCPR 3° Período
 - 📫 Contate-me pelo e-mail: andre.delfino@pucpr.edu.br
 
