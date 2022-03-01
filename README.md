@@ -17,7 +17,7 @@
 <div style="display: inline_block"><br>
   
 
-   <img align="center" alt="Andre-React" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+   <img align="center" alt="Andre-React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
 
 
    <img align="center" alt="Andre-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
