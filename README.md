@@ -1,4 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+
 
 ### Olá! Eu sou o André Delfino
 
@@ -17,6 +19,8 @@
   
 
    <img align="center" alt="Andre-React" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+   <i class="devicon-react-original-wordmark"></i>
+
    <img align="center" alt="Andre-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   
   <img align="center" alt="Andre-Js" height="30" width="40"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
