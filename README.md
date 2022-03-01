@@ -3,8 +3,8 @@
 ### Olá! Eu sou o André Delfino
 
 
-- 🔭 Atualmente em busca de um estagio na área de TI
-- 🌱 Iniciei estudos na área de Etical Hacking e graduação em Engenharia de Software pela PUCPR.
+- 🔭 Atualemte buscando oportunidades na area de Fullstack
+- 👨🏻‍🎓 Acadêmico de Engenharia de Software pela PUCPR 3° Período
 - 📫 Contate-me pelo e-mail: andre.delfino@pucpr.edu.br
 
 <div>
