@@ -5,7 +5,7 @@
 
 
 - 👨🏻‍💻 Atualemte buscando oportunidades na area de Fullstack
-- 👨🏻‍🎓 Acadêmico de Engenharia de Software pela PUCPR 3° Período
+- 👨🏻‍🎓 Acadêmico de Engenharia de Software pela PUCPR 4° Período
 - 📫 Contate-me pelo e-mail: andre.delfino@pucpr.edu.br
 
 <div>
