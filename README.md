@@ -1,12 +1,12 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
 
-### Olá! Eu sou o André Delfino
+### Hey! I'm André Moulin Delfino
 
 
-- 👨🏻‍💻 Atualemte estagiario em qualidade na VenkoNetworks
-- 👨🏻‍🎓 Acadêmico de Engenharia de Software pela PUCPR 4° Período
-- 📫 Contate-me pelo e-mail: andre.delfino@pucpr.edu.br
+- 👨🏻‍💻 Software Engineer with experience working in international teams from India and Canada
+- 👨🏻‍🎓 Bachelor’s Degree in Software Engineering from Pontifical Catholic University of Paraná (PUCPR)
+- 📫 E-mail: andre.delfino_contato@outlook.com
 
 <div>
   <a href="https://github.com/DehDelfino">
